@@ -1,4 +1,4 @@
-# Trivia Numérica
+# Cuestionario 
 
 ## Descripción
 Este proyecto consiste en que el usuario ingrese un número y reciba información curiosa sobre ese número.  
